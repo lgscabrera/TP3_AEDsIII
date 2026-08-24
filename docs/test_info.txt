@@ -1,0 +1,10 @@
+10000 instâncias - 2000 grafos de cada tipo - Vértices entre 500 a 10000 por grafo - 213.7gb
+Placa mãe: B550M Aourus Elite
+GPU: RX 6600 XT 12 GVRAM
+CPU: AMD Ryzen 7 5700X 8-Core @ 16x 4.66584GHz
+Memória: 64 Gb 3200 MHz DDR4
+Armazenamento: 1tb SSD SATA
+OS: Ubuntu 24.04 noble
+Kernel: x86_64 Linux 6.17.0-23-generic
+Tempo de geração de instâncias: ~= 6h
+Tempo de teste de instâncias: ~= 2h
